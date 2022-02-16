@@ -1,0 +1,205 @@
+pierre@ns3097994:~/officebots$ ./server --main-pack officebots-server.zip --server
+Godot Engine v3.3.3.stable.official.b973f997f - https://godotengine.org
+ 
+INFO: Robot support disabled.
+STARTING AS SERVER
+New player 1910895662 joined
+file created for the user with id 1910895662
+Creating character instance for peer #1910895662
+Player gfhgfhgfh (peer id #1910895662): registration & initialization complete
+Player #1910895662 is ready.
+New player 498813480 joined
+file created for the user with id 498813480
+Creating character instance for peer #498813480
+Player sfsdfsdfs (peer id #498813480): registration & initialization complete
+Player #498813480 is ready.
+New player 876910935 joined
+file created for the user with id 876910935
+Creating character instance for peer #876910935
+Player gfhfghgfh (peer id #876910935): registration & initialization complete
+Player #876910935 is ready.
+New player 1196844980 joined
+file created for the user with id 1196844980
+Creating character instance for peer #1196844980
+Player ghjghjghjhgjghj (peer id #1196844980): registration & initialization complete
+Player #1196844980 is ready.
+New player 2018370527 joined
+file created for the user with id 2018370527
+Creating character instance for peer #2018370527
+Player fgfdgfd (peer id #2018370527): registration & initialization complete
+Player #2018370527 is ready.
+New player 1701078131 joined
+file created for the user with id 1701078131
+Creating character instance for peer #1701078131
+Player ghj (peer id #1701078131): registration & initialization complete
+Player #1701078131 is ready.
+file created for the user with id xfdfgdffffffffffffffffff file q5
+gfhgfhgfh and ghjghjghjhgjghj not in range anymore
+Player 1910895662 disconnected
+ERROR: _send_rpc: Method failed.
+   At: core/io/multiplayer_api.cpp:488.
+file created for the user with id fggggggggggggggggggggggg file q5
+file created for the user with id hhhhhhhhhhhhhhhhhhhhhhhh file q5
+file created for the user with id jjjjjjjjjjjjjjjjjjjjjjjj file q5
+file created for the user with id ghhghjguhhgghjhgjhgjhgjh file q5
+New player 1310649806 joined
+file created for the user with id 1310649806
+Creating character instance for peer #1310649806
+Player y (peer id #1310649806): registration & initialization complete
+ghj and y in range
+Player #1310649806 is ready.
+file created for the user with id hjkhjkhjkkkkkkkkkkkkkkkk file q5
+sfsdfsdfs and ghjghjghjhgjghj in range
+sfsdfsdfs and ghjghjghjhgjghj not in range anymore
+sfsdfsdfs and fgfdgfd in range
+gfhfghgfh and ghjghjghjhgjghj in range
+sfsdfsdfs and y in range
+fgfdgfd and y in range
+ghj and y not in range anymore
+gfhfghgfh and y in range
+fgfdgfd and y not in range anymore
+ghjghjghjhgjghj and y in range
+sfsdfsdfs and y not in range anymore
+sfsdfsdfs and ghj in range
+fgfdgfd and ghj in range
+gfhfghgfh and ghj in range
+fgfdgfd and ghj not in range anymore
+sfsdfsdfs and ghj not in range anymore
+gfhfghgfh and ghj not in range anymore
+gfhfghgfh and ghj in range
+ghjghjghjhgjghj and ghj in range
+ghj and y in range
+ghj and y not in range anymore
+ghjghjghjhgjghj and ghj not in range anymore
+ghjghjghjhgjghj and ghj in range
+ghj and y in range
+gfhfghgfh and ghj not in range anymore
+gfhfghgfh and ghj in range
+gfhfghgfh and ghj not in range anymore
+ghjghjghjhgjghj and ghj not in range anymore
+gfhfghgfh and ghj in range
+gfhfghgfh and ghjghjghjhgjghj not in range anymore
+gfhfghgfh and y not in range anymore
+ghjghjghjhgjghj and ghj in range
+gfhfghgfh and ghjghjghjhgjghj in range
+ghjghjghjhgjghj and y not in range anymore
+ghjghjghjhgjghj and ghj not in range anymore
+gfhfghgfh and ghj not in range anymore
+ghjghjghjhgjghj and y in range
+ghjghjghjhgjghj and ghj in range
+fgfdgfd and ghj in range
+sfsdfsdfs and fgfdgfd not in range anymore
+fgfdgfd and y in range
+ghjghjghjhgjghj and fgfdgfd in range
+gfhfghgfh and ghjghjghjhgjghj not in range anymore
+ghjghjghjhgjghj and fgfdgfd not in range anymore
+ghjghjghjhgjghj and y not in range anymore
+ghjghjghjhgjghj and ghj not in range anymore
+[RigidBody:4716] has been picked up
+[RigidBody:4716] has been released
+[RigidBody:4716] has been picked up
+ghjghjghjhgjghj and ghj in range
+ghjghjghjhgjghj and y in range
+ghjghjghjhgjghj and fgfdgfd in range
+ghjghjghjhgjghj and fgfdgfd not in range anymore
+ghjghjghjhgjghj and ghj not in range anymore
+ghjghjghjhgjghj and y not in range anymore
+[RigidBody:4716] has been released
+ghjghjghjhgjghj and y in range
+ghjghjghjhgjghj and fgfdgfd in range
+gfhfghgfh and fgfdgfd in range
+gfhfghgfh and fgfdgfd not in range anymore
+ghjghjghjhgjghj and fgfdgfd not in range anymore
+fgfdgfd and y not in range anymore
+fgfdgfd and ghj not in range anymore
+fgfdgfd and ghj in range
+fgfdgfd and y in range
+fgfdgfd and y not in range anymore
+sfsdfsdfs and fgfdgfd in range
+fgfdgfd and ghj not in range anymore
+sfsdfsdfs and fgfdgfd not in range anymore
+ghjghjghjhgjghj and ghj in range
+ghjghjghjhgjghj and ghj not in range anymore
+ghj and y not in range anymore
+[RigidBody:4710] has been picked up
+[RigidBody:4710] has been released
+ghj and y in range
+ghjghjghjhgjghj and ghj in range
+ghjghjghjhgjghj and ghj not in range anymore
+sfsdfsdfs and ghj in range
+sfsdfsdfs and ghj not in range anymore
+ghjghjghjhgjghj and ghj in range
+[RigidBody:4640] has been picked up
+[RigidBody:4640] has been released
+ghj and y not in range anymore
+ghjghjghjhgjghj and ghj not in range anymore
+gfhfghgfh and ghjghjghjhgjghj in range
+ghjghjghjhgjghj and y not in range anymore
+sfsdfsdfs and y in range
+sfsdfsdfs and y not in range anymore
+sfsdfsdfs and y in range
+[RigidBody:4722] has been picked up
+[RigidBody:4722] has been released
+sfsdfsdfs and y not in range anymore
+fgfdgfd and y in range
+fgfdgfd and y not in range anymore
+ghjghjghjhgjghj and ghj in range
+ghjghjghjhgjghj and ghj not in range anymore
+sfsdfsdfs and ghj in range
+sfsdfsdfs and ghj not in range anymore
+fgfdgfd and ghj in range
+ghj and y in range
+fgfdgfd and ghj not in range anymore
+fgfdgfd and ghj in range
+fgfdgfd and ghj not in range anymore
+gfhfghgfh and ghjghjghjhgjghj not in range anymore
+sfsdfsdfs and gfhfghgfh in range
+sfsdfsdfs and gfhfghgfh not in range anymore
+gfhfghgfh and fgfdgfd in range
+gfhfghgfh and y in range
+gfhfghgfh and ghj in range
+gfhfghgfh and fgfdgfd not in range anymore
+gfhfghgfh and fgfdgfd in range
+fgfdgfd and y in range
+fgfdgfd and ghj in range
+ghj and y not in range anymore
+ghj and y in range
+ghj and y not in range anymore
+fgfdgfd and y not in range anymore
+gfhfghgfh and y not in range anymore
+sfsdfsdfs and y in range
+sfsdfsdfs and y not in range anymore
+fgfdgfd and ghj not in range anymore
+gfhfghgfh and ghj not in range anymore
+sfsdfsdfs and ghj in range
+ghj and y in range
+ghj and y not in range anymore
+sfsdfsdfs and ghj not in range anymore
+ghjghjghjhgjghj and ghj in range
+ghjghjghjhgjghj and ghj not in range anymore
+ghjghjghjhgjghj and ghj in range
+ghjghjghjhgjghj and ghj not in range anymore
+[RigidBody:4702] has been picked up
+ghjghjghjhgjghj and ghj in range
+ghjghjghjhgjghj and ghj not in range anymore
+[RigidBody:4702] has been released
+ghjghjghjhgjghj and ghj in range
+sfsdfsdfs and ghj in range
+sfsdfsdfs and ghjghjghjhgjghj in range
+sfsdfsdfs and ghj not in range anymore
+sfsdfsdfs and ghjghjghjhgjghj not in range anymore
+sfsdfsdfs and ghjghjghjhgjghj in range
+sfsdfsdfs and ghj in range
+gfhfghgfh and fgfdgfd not in range anymore
+gfhfghgfh and ghjghjghjhgjghj in range
+gfhfghgfh and ghj in range
+sfsdfsdfs and gfhfghgfh in range
+sfsdfsdfs and ghj not in range anymore
+ghjghjghjhgjghj and ghj not in range anymore
+gfhfghgfh and ghj not in range anymore
+[RigidBody:4722] has been picked up
+[RigidBody:4722] has been released
+gfhfghgfh and ghj in range
+ghjghjghjhgjghj and ghj in range
+sfsdfsdfs and ghj in range
+
